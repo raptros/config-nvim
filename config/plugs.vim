@@ -23,6 +23,8 @@ Plug 'ctrlpvim/ctrlp.vim'
 
 Plug 'neovimhaskell/haskell-vim', { 'for': 'haskell' }
 
+Plug 'alx741/vim-stylishask', {'for': 'haskell'}
+
 Plug 'ervandew/supertab'
 
 if has('nvim')
