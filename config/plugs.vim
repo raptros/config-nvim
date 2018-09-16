@@ -39,4 +39,6 @@ Plug 'eagletmt/neco-ghc'
 
 Plug 'rust-lang/rust.vim', { 'for': 'rust' }
 
+Plug 'peter-edge/vim-capnp'
+
 call plug#end()
